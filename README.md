@@ -1,4 +1,4 @@
-# Node-JS-Tutorial-Pack-W3SHOOL
+# Node JS Tutorial Pack W3SHOOLS
   
 This repository contains a simple Node.js tutorial based on the [W3Schools](https://www.w3schools.com/nodejs) website. The tutorial covers the basics of Node.js and provides a step-by-step guide and shows the workflow of my practice session.
 
