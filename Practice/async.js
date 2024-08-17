@@ -13,5 +13,7 @@ fs.readFile('example.txt', (err, data) => {
         return console.error(err);
     }
     console.log(data.toString());
-    eventEmitter.emit('Program Ended');
+    setTimeout(() => {
+        eventEmitter.emit('Program Ended');
+    }, 2000);
 });
