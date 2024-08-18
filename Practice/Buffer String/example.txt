@@ -1,0 +1,3 @@
+Node.js allows developers to work with streams and buffers effectively.
+Understanding how to handle buffers and use proper encoding like UTF-8
+is crucial when working with binary data and file systems.
